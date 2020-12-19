@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Lab8" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Lab8" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Lab8" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="array_f.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="array_f.h" />
+		<Unit filename="bool_type.h" />
+		<Unit filename="change.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="change.h" />
+		<Unit filename="compare.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="compare.h" />
+		<Unit filename="copy.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="copy.h" />
+		<Unit filename="delete_f.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="delete_f.h" />
+		<Unit filename="exception.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="exception.h" />
+		<Unit filename="f_constructor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="f_constructor.h" />
+		<Unit filename="flight_structs.h" />
+		<Unit filename="get_data.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="get_data.h" />
+		<Unit filename="get_flight.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="get_flight.h" />
+		<Unit filename="limit.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="print.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="print.h" />
+		<Unit filename="sort.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sort.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

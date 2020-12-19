@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1608036899 source:j:\языки программировани€\lab8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<malloc.h>
+	<math.h>
+	"flight_structs.h"
+	"bool_type.h"
+	"limit.h"
+	"compare.h"
+	"print.h"
+	"get_data.h"
+	"array_f.h"
+	"get_flight.h"
+	"delete_f.h"
+	"exception.h"
+	"sort.h"
+	"change.h"
+
+1608309847 j:\языки программировани€\lab8\flight_structs.h
+	"bool_type.h"
+	"limit.h"
+
+1608307437 source:j:\языки программировани€\lab8\print.c
+	<stdio.h>
+	"print.h"
+	"flight_structs.h"
+
+1608029260 j:\языки программировани€\lab8\bool_type.h
+
+1608029345 j:\языки программировани€\lab8\limit.h
+
+1608309034 source:j:\языки программировани€\lab8\get_data.c
+	<stdio.h>
+	"get_data.h"
+	"limit.h"
+	"flight_structs.h"
+	"bool_type.h"
+
+1608036309 source:j:\языки программировани€\lab8\change.c
+	"change.h"
+
+1608309012 j:\языки программировани€\lab8\get_data.h
+	"flight_structs.h"
+	"bool_type.h"
+
+1608309871 source:j:\языки программировани€\lab8\f_constructor.c
+	"string.h"
+	"f_constructor.h"
+	"bool_type.h"
+	"flight_structs.h"
+	"array_f.h"
+
+1608044607 j:\языки программировани€\lab8\f_constructor.h
+	"bool_type.h"
+	"flight_structs.h"
+
+1608310233 source:j:\языки программировани€\lab8\get_flight.c
+	<stdio.h>
+	"limit.h"
+	"get_flight.h"
+	"flight_structs.h"
+	"get_data.h"
+	"f_constructor.h"
+	"print.h"
+	"array_f.h"
+
+1608306703 source:j:\языки программировани€\lab8\array_f.c
+	<stdlib.h>
+	<malloc.h>
+	"array_f.h"
+	"flight_structs.h"
+
+1608036309 source:j:\языки программировани€\lab8\exception.c
+	<stdio.h>
+	<stdlib.h>
+	"exception.h"
+
+1608033278 source:j:\языки программировани€\lab8\copy.c
+	<string.h>
+	<stdio.h>
+	"copy.h"
+	"flight_structs.h"
+
+1608039921 j:\языки программировани€\lab8\copy.h
+	"flight_structs.h"
+
+1608033278 source:j:\языки программировани€\lab8\sort.c
+	"flight_structs.h"
+	"copy.h"
+
+1608033552 source:j:\языки программировани€\lab8\compare.c
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"flight_structs.h"
+
+1608033839 source:j:\языки программировани€\lab8\delete_f.c
+	"flight_structs.h"
+	"copy.h"
+	"array_f.h"
+
+1608306703 j:\языки программировани€\lab8\array_f.h
+	<stdlib.h>
+	<malloc.h>
+	"flight_structs.h"
+
+1608039870 j:\языки программировани€\lab8\change.h
+
+1608039948 j:\языки программировани€\lab8\exception.h
+
+1608044694 j:\языки программировани€\lab8\get_flight.h
+	<stdio.h>
+	"flight_structs.h"
+
+1608044780 j:\языки программировани€\lab8\print.h
+	<stdio.h>
+	"flight_structs.h"
+
+1608039902 j:\языки программировани€\lab8\compare.h
+	"flight_structs.h"
+
+1608039937 j:\языки программировани€\lab8\delete_f.h
+	"flight_structs.h"
+
+1608044848 j:\языки программировани€\lab8\sort.h
+	"flight_structs.h"
+
